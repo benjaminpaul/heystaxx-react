@@ -13,3 +13,14 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+html,
+body {
+  background-color: #f3f3f3;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+h2 {
+  font-size: 1.5em;
+}
